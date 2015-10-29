@@ -1,4 +1,1 @@
-basededatos501
-==============
-
-Programa BD 501
+Licence GLP 2.0
